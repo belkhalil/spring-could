@@ -16,7 +16,6 @@ import lombok.AllArgsConstructor;
 @AllArgsConstructor
 public class CurrencyExchangeController {
 
-    private Environment environment;
     private CurrencyExchengeRepository repo;
 
     @GetMapping("/currency-exchange/from/{from}/to/{to}")
