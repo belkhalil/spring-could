@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../limits-service"
+		},
+		{
+			"path": "../../../../../../../spring-cloud-config-server"
+		},
+		{
+			"path": "../../../../../../../git-localconfig-repo"
+		},
+		{
+			"name": "currency-exchange-service",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
